@@ -10,7 +10,7 @@
 
 ## 파일/폴더 안내
 
-- `gemini-sqlalchemy-practice.ipynb` : SQLAlchemy ORM 기초 개념 및 실습 노트북
+- `gemini-sqlalchemy-practice.ipynb` : 제미나이 과외선생님을 통한 학습기록
 - `notebooklnDeclare_models.ipynb` : 모델 선언, 관계 설정 등 실습 노트북
 - 기타 실습 코드 및 정리 자료 추가 예정
 
